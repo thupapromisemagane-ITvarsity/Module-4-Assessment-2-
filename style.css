@@ -1,0 +1,24 @@
+body{
+   background-color: deepskyblue;
+}
+
+#logo{
+    padding: 15px;
+}
+/*=============================== AFRICA ==============================*/
+
+#africa-drop{
+    position: absolute;
+    left: 437px;
+    top: 262px;
+}
+
+/*=============================== ASIA ==============================*/
+#asia-drop{
+    position: absolute;
+    left: 539px;
+}
+
+/*===============================AUSTRALIA==============================*/
+#australia-drop
+
